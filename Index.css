@@ -4,7 +4,7 @@ html, body {
     color: black ;
     user-select: none;
     font-family: 'Rubik', sans-serif;
-   background-color: limegreen;
+   background-color: rgb(245, 250, 245);
     
     
 }
@@ -17,8 +17,9 @@ html, body {
 }
 
 img {
-    width: 150px;
-    margin: 0 auto;
+    width: px;
+    margin: 0 ;
+    float: right;
 }
 
 input {
